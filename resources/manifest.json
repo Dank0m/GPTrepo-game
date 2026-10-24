@@ -1,0 +1,19 @@
+{
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "any",
+      "src": "/images/Favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "orientation": "portrait",
+  "display_override": ["fullscreen", "minimal-ui"],
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en",
+  "name": "Frontier — Community Edition",
+  "short_name": "Frontier",
+  "start_url": "/",
+  "id": "/"
+}
